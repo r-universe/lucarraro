@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/lucarraro/universe
+	url = https://github.com/lucarraro/lucarraro.r-universe.dev
 	branch = HEAD
 [submodule "traudem"]
 	path = traudem
